@@ -33,7 +33,7 @@ Pytorch re-Implementation of Convolutional Occupancy networks. Based on the pape
 
 
   ### To-DO
-- [x] Commit visualization for semantic meshes.
-- [x] Finish experiments on Semantic-KITTI
+- [] Commit visualization for semantic meshes.
+- [] Finish experiments on Semantic-KITTI
    
 

@@ -9,6 +9,11 @@ Pytorch re-Implementation of Convolutional Occupancy networks. Based on the pape
 
   The complete resontructed results are in the in the `recon_mesh.zip` folder.The results for semantic reconstruction will be added in a few weeks.
   Sample meshes reconstructed can be seen below. Semantic meshes will be commited in a 2 weeks after CVPR rebuttal.
+  
+  ### To-DO/WIP
+- [ ] Commit visualization for semantic meshes.
+- [ ] Finish experiments on Semantic-KITTI
+   
 
 
 ### Airplane
@@ -32,8 +37,5 @@ Pytorch re-Implementation of Convolutional Occupancy networks. Based on the pape
 ![Chair](./v0_tests/SampleChair00.png "Reconstructed Chair")
 
 
-  ### To-DO
-- [] Commit visualization for semantic meshes.
-- [] Finish experiments on Semantic-KITTI
-   
+
 

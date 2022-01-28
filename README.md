@@ -25,11 +25,11 @@ Pytorch re-Implementation of Convolutional Occupancy networks. Based on the pape
 
 ### Chair
 
-![Car](./v0_tests/Sample00_Car.png "Reconstructed Car")
+![Car](./v0_tests/Sample_Car00.png "Reconstructed Car")
 
 ### Airplane
 
-![Chair](./v0_tests/Sample00Chair.png "Reconstructed Chair")
+![Chair](./v0_tests/SampleChair00.png "Reconstructed Chair")
 
 
   ### To-DO

@@ -8,7 +8,7 @@ Pytorch re-Implementation of Convolutional Occupancy networks. Based on the pape
   Experiments on extending Convolutional Occupancy networks to semantic implicit representations for semantic scene completion. 
 
   The complete resontructed results are in the in the `recon_mesh.zip` folder.The results for semantic reconstruction will be added in a few weeks.
-  Sample meshes reconstructed can be seen below. Semantic meshes will be commited in a 2 weeks after CVPR rebuttal.
+  Sample meshes reconstructed can be seen below.
   
   ### To-DO/WIP
 - [ ] Commit visualization for semantic meshes.
